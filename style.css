@@ -1,0 +1,244 @@
+- Family: [League Spartan](https://fonts.google.com/specimen/League+Spartan)
+- Weights: 400, 500, 700
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-color: rgb(250, 245, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    background-color: white;
+    width: 900px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+
+}
+
+.titulo{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    margin-top: 40px;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}
+
+h1{
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hsl(300, 43%, 22%);
+}
+.paragrafo-prin{
+    color:  hsl(303, 10%, 53%);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+.estrelas{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin-top: ;
+}
+
+
+
+.estrela-um{
+    background-color:  hsl(300, 24%, 96%);
+    width: 320px;
+    height: 50px; 
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    
+
+
+}
+
+.estrela-dois{
+    background-color: hsl(300, 24%, 96%);
+    width: 320px;
+    height: 50px;
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    
+    
+
+    
+
+    
+}
+
+.estrela-tres{
+
+    background-color: hsl(300, 24%, 96%);
+    width: 320px;
+    height: 50px;
+    margin-left: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    
+
+    
+}
+
+.caixa{
+    background-color: white;
+    width: 900px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+
+
+}
+
+
+
+.colton{
+    background-color: hsl(300, 43%, 22%);
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    margin-left: 40px;
+    
+    
+
+}
+
+.foto-icone{
+    background-color: hsl(300, 43%, 22%);
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+    
+}
+
+.foto-paragrafo{
+    background-color: hsl(300, 43%, 22%);
+    width: 110px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.paragrafo-colton{
+    background-color:hsl(300, 43%, 22%);
+    width: 270px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}
+
+.irene{
+    background-color: hsl(300, 43%, 22%);
+    width: 270px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    
+}
+
+.ane{
+    background-color: hsl(300, 43%, 22%);
+    width: 270px;
+    height: 250px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    
+
+}
+
+.foto-colton{
+    border-radius: 30px;
+    height: 50px;
+    
+}
+
+.col{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.ire{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.anee{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.paragrafos-item{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.verific{
+    color:hsl(333, 80%, 67%) ;
+}
+
+.rated{
+    font-size: 15px;
+    color:hsl(300, 43%, 22%) ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
